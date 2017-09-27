@@ -5,4 +5,6 @@
 - [RxVision](https://jaredforsyth.com/rxvision/) — A visualizer / debugger for reactive streams
 
 # Course
+- [Introduction to Reactive Programming](https://egghead.io/courses/introduction-to-reactive-programming)
 - [Reactive JS: Are you ready for the next big paradigm shift?](https://www.udemy.com/reactive-js-getting-ready-for-the-next-big-paradigm-shift/learn/v4/overview)
+- [Getting Started with Reactive Programming Using RxJS](https://www.pluralsight.com/courses/reactive-programming-rxjs-getting-started)
