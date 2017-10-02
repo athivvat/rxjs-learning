@@ -33,7 +33,7 @@ simple$.skip(2)
 simple$.skip(2).take(3)
     .subscribe(createSubscriber('take/skip'))
 
-========
+// ========
 
 Rx.Observable.interval(500)
     .skipWhile(i => i < 4)
