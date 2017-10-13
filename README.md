@@ -10,3 +10,7 @@
 - [Introduction to Reactive Programming](https://egghead.io/courses/introduction-to-reactive-programming)
 - [Reactive JS: Are you ready for the next big paradigm shift?](https://www.udemy.com/reactive-js-getting-ready-for-the-next-big-paradigm-shift/learn/v4/overview)
 - [Getting Started with Reactive Programming Using RxJS](https://www.pluralsight.com/courses/reactive-programming-rxjs-getting-started)
+
+# Reactive in Real World
+- [Using Observables in real life](https://hackernoon.com/using-observables-to-make-our-app-work-with-barcode-scanners-e8a673fba625)
+- [Real World Observables](https://sergimansilla.com/blog/real-world-observables/)
